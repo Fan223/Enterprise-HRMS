@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 /**
  * @ClassName GlobalExceptionHandler
  * @Description TODO
- * @Author 赵俊杰
+ * @Author Fan
  * @Date 2022/5/3 13:36
  * @Version 1.0
  */

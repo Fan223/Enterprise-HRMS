@@ -19,7 +19,7 @@ import java.nio.charset.StandardCharsets;
 /**
  * @ClassName CustomLogoutSuccessHandler
  * @Description TODO
- * @Author 赵俊杰
+ * @Author Fan
  * @Date 2022/5/6 12:58
  * @Version 1.0
  */

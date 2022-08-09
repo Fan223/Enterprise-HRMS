@@ -11,7 +11,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 /**
  * @ClassName CorsConfig
  * @Description TODO
- * @Author 赵俊杰
+ * @Author Fan
  * @Date 2022/5/4 11:25
  * @Version 1.0
  */

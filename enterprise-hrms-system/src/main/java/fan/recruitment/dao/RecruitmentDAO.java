@@ -6,7 +6,7 @@ import fan.recruitment.entiry.RecruitmentDO;
 /**
  * @ClassName RecruitmentDAO
  * @Description TODO
- * @Author 赵俊杰
+ * @Author Fan
  * @Date 2022/3/6 21:02
  * @Version 1.0
  */

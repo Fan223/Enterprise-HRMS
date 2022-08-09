@@ -25,7 +25,7 @@ import java.util.List;
 /**
  * @ClassName EmployeeController
  * @Description TODO
- * @Author 赵俊杰
+ * @Author Fan
  * @Date 2022/3/14 11:23
  * @Version 1.0
  */
@@ -47,7 +47,7 @@ public class EmployeeController {
     private SysEmployeeRoleService sysEmployeeRoleService;
 
     /**
-     * @Author 赵俊杰
+     * @Author Fan
      * @Description 查询员工信息
      * @Date 2022/5/10 18:57
      * @param: conditionDTO
@@ -68,7 +68,7 @@ public class EmployeeController {
     }
 
     /**
-     * @Author 赵俊杰
+     * @Author Fan
      * @Description 新增员工信息
      * @Date 2022/5/10 18:58
      * @param: employeeDTO
@@ -86,7 +86,7 @@ public class EmployeeController {
     }
 
     /**
-     * @Author 赵俊杰
+     * @Author Fan
      * @Description 修改员工信息
      * @Date 2022/5/10 18:58
      * @param: employeeDTO
@@ -100,7 +100,7 @@ public class EmployeeController {
     }
 
     /**
-     * @Author 赵俊杰
+     * @Author Fan
      * @Description 删除员工信息
      * @Date 2022/5/10 18:58
      * @param: conditionDTO
@@ -115,7 +115,7 @@ public class EmployeeController {
     }
 
     /**
-     * @Author 赵俊杰
+     * @Author Fan
      * @Description 获取个人信息
      * @Date 2022/5/14 1:56
      * @param: principal
@@ -129,7 +129,7 @@ public class EmployeeController {
     }
 
     /**
-     * @Author 赵俊杰
+     * @Author Fan
      * @Description 更新个人信息
      * @Date 2022/5/14 1:56
      * @param: employeeDTO
@@ -141,7 +141,7 @@ public class EmployeeController {
     }
 
     /**
-     * @Author 赵俊杰
+     * @Author Fan
      * @Description 修改密码
      * @Date 2022/5/14 1:56
      * @param: employeeDTO
@@ -157,7 +157,7 @@ public class EmployeeController {
         return Result.success("修改密码成功", employeeService.updateEmployee(employeeDTO));
     }
     /**
-     * @Author 赵俊杰
+     * @Author Fan
      * @Description 分配角色
      * @Date 2022/5/11 1:34
      * @param: empId
@@ -187,7 +187,7 @@ public class EmployeeController {
     }
 
     /**
-     * @Author 赵俊杰
+     * @Author Fan
      * @Description 重置密码
      * @Date 2022/5/11 1:34
      */

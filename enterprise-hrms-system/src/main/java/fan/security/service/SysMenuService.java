@@ -19,7 +19,7 @@ import java.util.List;
 public interface SysMenuService extends IService<SysMenuDO> {
 
     /**
-     * @Author 赵俊杰
+     * @Author Fan
      * @Description 根据员工id获取导航菜单列表Id
      * @Date 2022/5/10 18:51
      * @param: empId
@@ -28,7 +28,7 @@ public interface SysMenuService extends IService<SysMenuDO> {
     List<String> getNavMenuIds(String empId);
 
     /**
-     * @Author 赵俊杰
+     * @Author Fan
      * @Description 获取用户导航菜单列表
      * @Date 2022/5/10 18:52
      * @param: employeeDTO
@@ -37,7 +37,7 @@ public interface SysMenuService extends IService<SysMenuDO> {
     List<SysMenuDTO> getNavMenu(EmployeeDTO employeeDTO);
 
     /**
-     * @Author 赵俊杰
+     * @Author Fan
      * @Description 获取所有菜单列表
      * @Date 2022/5/10 18:52
      * @return: java.util.List<fan.security.entity.SysMenuDO>

@@ -7,7 +7,7 @@ import org.springframework.stereotype.Controller;
 /**
  * @ClassName RecruitmentDTOConvert
  * @Description TODO
- * @Author 赵俊杰
+ * @Author Fan
  * @Date 2022/3/7 9:24
  * @Version 1.0
  */

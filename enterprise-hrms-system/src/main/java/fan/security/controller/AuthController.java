@@ -24,7 +24,7 @@ import java.io.IOException;
 /**
  * @ClassName AuthController
  * @Description TODO
- * @Author 赵俊杰
+ * @Author Fan
  * @Date 2022/5/4 10:04
  * @Version 1.0
  */
@@ -38,7 +38,7 @@ public class AuthController {
     private RedisUtil redisUtil;
 
     /**
-     * @Author 赵俊杰
+     * @Author Fan
      * @Description 获取验证码
      * @Date 2022/5/10 18:57
      * @return: fan.utils.Result
@@ -63,7 +63,7 @@ public class AuthController {
     }
 
     /**
-     * @Author 赵俊杰
+     * @Author Fan
      * @Description 密码加密
      * @Date 2022/5/10 18:57
      * @return: fan.utils.Result

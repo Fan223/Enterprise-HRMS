@@ -34,7 +34,7 @@ public class SysMenuServiceImpl extends ServiceImpl<SysMenuDAO, SysMenuDO> imple
     private SysMenuDTOConvert sysMenuDTOConvert;
 
     /**
-     * @Author 赵俊杰
+     * @Author Fan
      * @Description 根据员工id获取导航菜单列表id
      * @Date 2022/5/10 18:53
      * @param: empId
@@ -46,7 +46,7 @@ public class SysMenuServiceImpl extends ServiceImpl<SysMenuDAO, SysMenuDO> imple
     }
 
     /**
-     * @Author 赵俊杰
+     * @Author Fan
      * @Description 获取用户导航菜单列表
      * @Date 2022/5/10 18:53
      * @param: employeeDTO
@@ -65,7 +65,7 @@ public class SysMenuServiceImpl extends ServiceImpl<SysMenuDAO, SysMenuDO> imple
     }
 
     /**
-     * @Author 赵俊杰
+     * @Author Fan
      * @Description 获取所有菜单列表
      * @Date 2022/5/10 18:54
      * @return: java.util.List<fan.security.entity.SysMenuDO>
@@ -80,7 +80,7 @@ public class SysMenuServiceImpl extends ServiceImpl<SysMenuDAO, SysMenuDO> imple
     }
 
     /**
-     * @Author 赵俊杰
+     * @Author Fan
      * @Description 将菜单列表转为树状结构
      * @Date 2022/5/10 18:54
      * @param: sysMenuDOS
@@ -123,7 +123,7 @@ public class SysMenuServiceImpl extends ServiceImpl<SysMenuDAO, SysMenuDO> imple
     }
 
     /**
-     * @Author 赵俊杰
+     * @Author Fan
      * @Description 将树状菜单结构转为DTO
      * @Date 2022/5/10 18:54
      * @param: sysMenuDOSTree

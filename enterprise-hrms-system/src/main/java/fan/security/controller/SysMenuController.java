@@ -43,7 +43,7 @@ public class SysMenuController {
     private SysRoleMenuService sysRoleMenuService;
 
     /**
-     * @Author 赵俊杰
+     * @Author Fan
      * @Description 获取导航菜单
      * @Date 2022/5/10 18:59
      * @param: principal
@@ -62,7 +62,7 @@ public class SysMenuController {
     }
 
     /**
-     * @Author 赵俊杰
+     * @Author Fan
      * @Description 获取所有菜单列表
      * @Date 2022/5/10 18:59
      * @param: principal
@@ -75,7 +75,7 @@ public class SysMenuController {
     }
 
     /**
-     * @Author 赵俊杰
+     * @Author Fan
      * @Description 新增菜单
      * @Date 2022/5/10 18:59
      * @param: sysMenuDO
@@ -94,7 +94,7 @@ public class SysMenuController {
     }
 
     /**
-     * @Author 赵俊杰
+     * @Author Fan
      * @Description 修改菜单
      * @Date 2022/5/10 18:59
      * @param: sysMenuDO
@@ -112,7 +112,7 @@ public class SysMenuController {
     }
 
     /**
-     * @Author 赵俊杰
+     * @Author Fan
      * @Description 删除菜单
      * @Date 2022/5/10 18:59
      * @param: menuId

@@ -16,7 +16,7 @@ import java.nio.charset.StandardCharsets;
 /**
  * @ClassName UnAuthenticationEntryPoint
  * @Description TODO
- * @Author 赵俊杰
+ * @Author Fan
  * @Date 2022/5/6 6:34
  * @Version 1.0
  */

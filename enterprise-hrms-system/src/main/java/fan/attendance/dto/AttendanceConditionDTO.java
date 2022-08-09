@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * @ClassName ConditionDTO
  * @Description TODO
- * @Author 赵俊杰
+ * @Author Fan
  * @Date 2022/3/14 15:40
  * @Version 1.0
  */

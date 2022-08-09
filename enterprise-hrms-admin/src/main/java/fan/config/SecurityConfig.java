@@ -20,7 +20,7 @@ import javax.annotation.Resource;
 /**
  * @ClassName SecurityConfig
  * @Description TODO
- * @Author 赵俊杰
+ * @Author Fan
  * @Date 2022/5/4 10:33
  * @Version 1.0
  */

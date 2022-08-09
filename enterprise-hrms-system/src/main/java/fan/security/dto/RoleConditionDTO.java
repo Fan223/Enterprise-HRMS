@@ -7,7 +7,7 @@ import java.util.ArrayList;
 /**
  * @ClassName RoleConditionDTO
  * @Description TODO
- * @Author 赵俊杰
+ * @Author Fan
  * @Date 2022/5/10 15:24
  * @Version 1.0
  */

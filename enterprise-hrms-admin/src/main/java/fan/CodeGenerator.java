@@ -7,7 +7,7 @@ import com.baomidou.mybatisplus.generator.engine.FreemarkerTemplateEngine;
 /**
  * @ClassName CodeGenerator
  * @Description TODO
- * @Author 赵俊杰
+ * @Author Fan
  * @Date 2022/5/3 11:00
  * @Version 1.0
  */

@@ -6,7 +6,7 @@ import fan.salary.entity.SalaryDO;
 /**
  * @ClassName DepartmentDAO
  * @Description TODO
- * @Author 赵俊杰
+ * @Author Fan
  * @Date 2022/3/14 10:44
  * @Version 1.0
  */

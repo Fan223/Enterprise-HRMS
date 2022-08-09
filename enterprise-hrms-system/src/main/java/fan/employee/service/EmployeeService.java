@@ -8,7 +8,7 @@ import fan.employee.entity.EmployeeDO;
 /**
  * @ClassName EmployeeService
  * @Description TODO
- * @Author 赵俊杰
+ * @Author Fan
  * @Date 2022/3/14 11:24
  * @Version 1.0
  */
@@ -19,7 +19,7 @@ public interface EmployeeService {
     EmployeeDTO getEmpByCode(String username);
 
     /**
-     * @Author 赵俊杰
+     * @Author Fan
      * @Description 根据用户ID获取权限
      * @Date 2022/5/10 19:04
      * @param: empId
@@ -28,7 +28,7 @@ public interface EmployeeService {
     String getAuthority(String empId);
 
     /**
-     * @Author 赵俊杰
+     * @Author Fan
      * @Description 根据用户名清除缓存
      * @Date 2022/5/10 19:05
      * @param: username
@@ -36,7 +36,7 @@ public interface EmployeeService {
     void clearUserAuthority(String username);
 
     /**
-     * @Author 赵俊杰
+     * @Author Fan
      * @Description 根据角色ID清除缓存
      * @Date 2022/5/10 19:05
      * @param: roleId
@@ -44,7 +44,7 @@ public interface EmployeeService {
     void clearUserAuthorityByRoleId(String roleId);
 
     /**
-     * @Author 赵俊杰
+     * @Author Fan
      * @Description 根据菜单ID清除缓存
      * @Date 2022/5/10 19:05
      * @param: menuId

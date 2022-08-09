@@ -18,7 +18,7 @@ import java.util.List;
 /**
  * @ClassName UserDetailsServiceImpl
  * @Description TODO
- * @Author 赵俊杰
+ * @Author Fan
  * @Date 2022/5/6 6:50
  * @Version 1.0
  */
@@ -51,7 +51,7 @@ public class UserDetailsServiceImpl implements UserDetailsService {
     }
 
     /**
-     * @Author 赵俊杰
+     * @Author Fan
      * @Description 从数据库获取用户权限，并将权限存入redis
      * @Date 2022/5/10 18:55
      * @param: employeeDTO
