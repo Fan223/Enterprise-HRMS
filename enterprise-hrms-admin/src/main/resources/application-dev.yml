@@ -9,14 +9,14 @@ spring:
 
   datasource:
     druid:
-      url: jdbc:mysql://124.222.118.90:3306/enterprise_hrms?connectTimeout=5000&socketTimeout=10000&autoReconnect=true&failOverReadOnly=false&useSSL=false&useUnicode=true&characterEncoding=UTF-8&serverTimezone=GMT%2B8
-      username: root
-      password: fan223
+      url: jdbc:mysql://xxx:3306/enterprise_hrms?connectTimeout=5000&socketTimeout=10000&autoReconnect=true&failOverReadOnly=false&useSSL=false&useUnicode=true&characterEncoding=UTF-8&serverTimezone=GMT%2B8
+      username: xxx
+      password: xxx
       driver-class-name: com.mysql.cj.jdbc.Driver
   redis:
     host: 124.222.118.90
     port: 6379
-    password: fan223
+    password: xxx
 
 mybatis-plus:
   mapper-locations: classpath*:/mapper/**Mapper.xml
